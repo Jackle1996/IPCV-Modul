@@ -1,2 +1,2 @@
 # IPCV-Modul
-Image Processing &amp; Visual Computing
+Image Processing &amp; Computer Vision
